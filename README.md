@@ -28,7 +28,7 @@ The true beating heart of the game lies in the uniqueness of its protagonists. N
 Inside the box you will find:
 
 * **5 Hero Cards:** The protagonists of the adventure.
-* **2 6-Sided Dice (d6).**
+* **5 6-Sided Dice (d6).**
 * **51 Item Cards:** Divided into Minor and Major items.
 * **22 Story Cards:** The events and narrative crossroads.
 * **9 Monster Cards:** The threats to face in combat.
