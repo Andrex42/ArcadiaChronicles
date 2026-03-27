@@ -17,7 +17,7 @@ Il vero cuore pulsante del gioco risiede nell'unicità dei suoi protagonisti. No
 All'interno della scatola troverete:
 
 * **5 Carte Eroe:** I protagonisti dell'avventura.
-* **2 Dadi a 6 facce (d6)**.
+* **5 Dadi a 6 facce (d6)**.
 * **51 Carte Oggetto:** Divise tra Minori e Maggiori.
 * **22 Carte Storia:** Gli eventi e i bivi narrativi.
 * **9 Carte Mostro:** Le minacce da affrontare in combattimento.
