@@ -1,95 +1,106 @@
 # Arcadia Chronicles
 
-> **Arcadia Chronicles** è un'avventura cooperativa per 1-4 giocatori in cui tu e i tuoi compagni abbandonerete la realtà per incarnare i più grandi Eroi del vasto e insidioso mondo fantasy di Arcadia.
+> **Arcadia Chronicles** is a cooperative adventure for 1-4 players where you and your companions will leave reality behind to embody the greatest Heroes of the vast and treacherous fantasy world of Arcadia.
 
 ---
 
-## 📖 Introduzione e Scopo del Gioco
+## 👨‍💻 My Role: Game Designer & Creator
 
-In questa avventura cooperativa ripercorrerete i passi di leggende passate, immergendovi in una narrazione profonda e in continua evoluzione, affrontando le prove e gli oscuri segreti degli Atti a Luminia. 
+I worked on this one-month project as the sole **Game Designer** and creator of the entire game. My responsibilities encompassed every single aspect of *Arcadia Chronicles*, bringing a D&D-inspired card game to life. My core contributions included:
 
-Il vero cuore pulsante del gioco risiede nell'unicità dei suoi protagonisti. Non esistono due avventure uguali: ogni Eroe è dotato di una formidabile Abilità Unica, di statistiche asimmetriche e di un personale approccio ai Dadi Scelta. La narrazione è viva e si plasma attivamente a seconda delle combinazioni di Eroi scelti e delle decisioni prese dal gruppo, garantendo una rigiocabilità assoluta.
-
----
-
-## 📦 Componenti del Gioco
-
-All'interno della scatola troverete:
-
-* **5 Carte Eroe:** I protagonisti dell'avventura.
-* **5 Dadi a 6 facce (d6)**.
-* **51 Carte Oggetto:** Divise tra Minori e Maggiori.
-* **22 Carte Storia:** Gli eventi e i bivi narrativi.
-* **9 Carte Mostro:** Le minacce da affrontare in combattimento.
-* **1 Blocco Note:** Per tenere traccia di Punti Vita, appunti ed equipaggiamento.
+* **Core Mechanics & Systems:** Designed the innovative "Choice Dice" system, asymmetric Hero stats, inventory management, and the game's combat loop.
+* **Narrative Design:** Wrote the lore, events, and branching story paths, seamlessly blending rich storytelling with light dungeon-crawling mechanics.
+* **Content Creation:** Developed and balanced all in-game assets, including the 5 unique Heroes, 51 Item cards, 22 Story cards, and 9 Monster behaviors.
+* **Rulebook & UX:** Drafted the entire official rulebook from scratch, ensuring clear and accessible guidelines for both cooperative and solo ("Lone Wolf") modes.
 
 ---
 
-## ⚙️ Preparazione (Setup)
+## 📖 Introduction and Game Goal
 
-Per preparare il tavolo e iniziare subito a giocare:
+In this cooperative adventure, you will retrace the steps of past legends, immersing yourself in a deep and constantly evolving narrative, facing the trials and dark secrets of the Acts in Luminia. 
 
-1.  **Scelta dell'Eroe:** Ogni giocatore sceglie una Carta Eroe e la posiziona scoperta davanti a sé. Ogni giocatore prende un foglio dal Blocco Note per tenere traccia dei propri Punti Vita (PV) e delle risorse. Tenete i dadi a portata di mano.
-2.  **Preparazione dei Mazzi Storia e Mostro:** Prendete i due mazzi assicurandovi che le carte siano ordinate in sequenza narrativa (come nella scatola) e posizionateli al centro del tavolo. **Non mischiate questi mazzi!**
-3.  **Setup dell'Inventario:** Rimuovete dal gioco tutti gli Oggetti Specifici per Eroe appartenenti ai personaggi non scelti per la partita. Separate le carte rimanenti in due mazzi distinti (Oggetti Minori e Oggetti Maggiori), mischiateli accuratamente e posizionateli a faccia in giù.
+The true beating heart of the game lies in the uniqueness of its protagonists. No two adventures are the same: each Hero is equipped with a formidable Unique Ability, asymmetric stats, and a personal approach to the Choice Dice. The narrative is alive and actively shapes itself depending on the combination of Heroes chosen and the decisions made by the group, ensuring absolute replayability.
 
 ---
 
-## 🎲 I Dadi Scelta e gli Approcci
+## 📦 Game Components
 
-Durante l'esplorazione, il gruppo dovrà prendere decisioni collettive affrontando delle prove. Ogni giocatore tirerà il proprio dado (d6) e, in base alle statistiche dell'Eroe, al risultato corrisponderà un colore. Il colore predominante all'interno del gruppo determinerà la scelta finale e l'esito della Carta Storia.
+Inside the box you will find:
 
-I tre approcci sono:
-
-* 🔴 **Rosso (Furia/Istinto):** Un approccio aggressivo, diretto o istintivo. Garantisce un vantaggio nelle prove di forza bruta, ma può scatenare combattimenti evitabili o farvi cadere in trappole.
-* 🟡 **Giallo (Pace/Accortezza):** Un approccio diplomatico, elusivo e cauto. Permette di aggirare scontri o accumulare risorse, ma può tradursi in uno svantaggio durante le prove fisiche o lasciare il gruppo vulnerabile.
-* ⚪ **Grigio (Logica/Neutralità):** Un approccio razionale, analitico e non condizionato dalle emozioni. Permette di svelare misteri e ottenere vantaggi tattici, ma potrebbe costare l'empatia o il supporto di alcuni personaggi.
-
----
-
-## ⚔️ Il Turno di Gioco
-
-Il gioco si divide in round scanditi da diverse fasi:
-
-### Fase A: Esplorazione (Carta Storia)
-1.  **Pesca:** Si svela la prima Carta Storia.
-2.  **La Prova e La Scelta:** Gli Eroi affrontano la prova tirando i Dadi Scelta.
-3.  **Risoluzione:** Si applicano le conseguenze: se ostile, si passa al Combattimento; se c'è un bottino, si passa alle Ricompense.
-
-### Fase B: Ricompense (Carta Oggetto)
-Quando il gruppo ottiene un bottino, un giocatore pesca una carta Oggetto e la tiene segreta.
-* **Consumabili:** Rimangono coperti finché non vengono utilizzati. Non si possono avere più di 2 Consumabili alla volta.
-* **Equipaggiamenti:** Vengono rivelati e posizionati accanto alla Carta Eroe. Un Eroe non può avere più di 2 Equipaggiamenti attivi alla volta.
-
-### Fase C: Combattimento
-Se la storia rivela nemici, si entra in combattimento pescando la relativa Carta Mostro.
-* **Turno degli Eroi:** Ogni giocatore può eseguire un'azione principale (Attaccare o usare l'Abilità Unica) e utilizzare carte Consumabile.
-    * *Abilità Unica:* Può essere utilizzata **solo una volta per ogni Atto**. Si ricarica solo nelle Taverne.
-    * *Attacco:* Si tira 1d6 + Modificatore Attacco. Se supera o eguaglia il tiro di Difesa del Mostro (1d6 + Difesa), l'attacco va a segno. I danni (1d6 + Modificatore Attacco) si sottraggono ai PV del nemico.
-* **Turno del Mostro:** Agisce seguendo la tattica indicata sulla propria carta (es. "Attacca l'Eroe con più PV totali"). Attacca e risolve i danni come gli Eroi.
+* **5 Hero Cards:** The protagonists of the adventure.
+* **2 6-Sided Dice (d6).**
+* **51 Item Cards:** Divided into Minor and Major items.
+* **22 Story Cards:** The events and narrative crossroads.
+* **9 Monster Cards:** The threats to face in combat.
+* **1 Notepad:** To keep track of Health Points, notes, and equipment.
 
 ---
 
-## 💀 Morte ed Eliminazione
+## ⚙️ Preparation (Setup)
 
-Quando i PV di un Eroe scendono a 0, egli "Sviene" (la carta viene capovolta) e salta il turno. Un compagno può rinunciare all'Attacco o usare un Consumabile curativo per rianimarlo (recuperando 1 PV). 
+To set up the table and start playing immediately:
 
-Se un Eroe non viene rianimato e lo scontro finisce, la morte è definitiva e serviranno reliquie rarissime per resuscitarlo (es. Pergamena di Resurrezione).
-
----
-
-## 🍻 Le Taverne
-
-Luoghi sicuri tra un Atto e l'altro. All'interno di esse è possibile:
-* Ripristinare completamente i PV di tutti gli Eroi.
-* Scambiarsi liberamente gli Oggetti tra giocatori.
-* Vendere Oggetti Minori in eccesso all'oste pescando nuove carte.
+1.  **Hero Selection:** Each player chooses a Hero Card and places it face up in front of them. Each player takes a sheet from the Notepad to track their Health Points (HP) and resources. Keep the dice within reach.
+2.  **Story and Monster Decks Preparation:** Take the two decks, ensuring the cards are ordered in narrative sequence (exactly as distributed in the box), and place them in the center of the table. **Do not shuffle these decks!**
+3.  **Inventory Setup:** Remove all Hero-Specific Items belonging to characters not chosen for the current game. Separate the remaining cards into two distinct decks (Minor Items and Major Items), shuffle them thoroughly, and place them face down.
 
 ---
 
-## 🐺 Modalità Lupo Solitario
+## 🎲 The Choice Dice and Approaches
 
-Regole speciali per giocare in solitaria:
-* Tiri due Dadi Scelta per ogni Carta Storia e scegli quale colore applicare.
-* Hai a disposizione due Azioni principali per turno in combattimento.
-* Se i PV scendono a 0, si attiva la "Seconda Chance": recuperi metà PV massimi, ma scarti permanentemente un oggetto. Alla seconda volta a 0 PV, la partita è persa.
+During exploration, the group must make collective decisions by facing trials. Each player will roll their own die (d6) and, based on the Hero's stats, the result corresponds to a color. The predominant color within the group will determine the final choice and the outcome of the Story Card.
+
+The three approaches are:
+
+* 🔴 **Red (Fury/Instinct):** An aggressive, direct, or purely instinctive approach. It grants an advantage in brute force trials, but can trigger avoidable combats or lead you into traps.
+* 🟡 **Yellow (Peace/Caution):** A diplomatic, elusive, and cautious approach. It often allows you to bypass fights or gather extra resources, but excessive hesitation can result in a disadvantage during physical trials or leave the group vulnerable.
+* ⚪ **Gray (Logic/Neutrality):** A rational, analytical approach unconditioned by emotions. It allows you to uncover hidden mysteries and gain tactical advantages, but it might cost you the empathy or support of some key characters.
+
+---
+
+## ⚔️ The Game Turn
+
+The game is divided into rounds marked by different phases:
+
+### Phase A: Exploration (Story Card)
+1.  **Draw:** Reveal the first Story Card.
+2.  **The Trial and The Choice:** The Heroes face the trial by rolling their Choice Dice.
+3.  **Resolution:** Apply the consequences: if hostile, proceed to Combat; if there's loot, proceed to Rewards.
+
+### Phase B: Rewards (Item Card)
+When the group obtains loot, a designated player draws an Item card and keeps it initially secret.
+* **Consumables:** Remain face down in the inventory until used. You cannot have more than 2 Consumables at the same time.
+* **Equipment:** Are revealed immediately and placed next to the Hero Card. A Hero cannot have more than 2 active Equipment items at a time.
+
+### Phase C: Combat
+If the story reveals enemies, combat begins by drawing the corresponding Monster Card.
+* **Heroes' Turn:** Each player can perform a main action (Attack or use their Unique Ability) and use Consumable cards.
+    * *Unique Ability:* Can be used **only once per Act**. It recharges automatically only after visiting a Tavern.
+    * *Attack:* Roll 1d6 + Attack Modifier. If the total equals or exceeds the Monster's defense roll (1d6 + Defense), the attack hits. The damage dealt (1d6 + Attack Modifier) is subtracted directly from the enemy's HP.
+* **Monster's Turn:** Acts following the specific tactic indicated on its card (e.g., "Attack the Hero with the highest total HP"). It attacks and resolves damage just like the Heroes.
+
+---
+
+## 💀 Death and Elimination
+
+When a Hero's HP drops to 0, they do not die instantly but "Faint" (their card is flipped face down) and skip their turn. A companion can forfeit their Attack action or use a healing Consumable to revive them (recovering 1 HP). 
+
+If a Hero is not revived and remains on the ground until the battle ends, their death is permanent. They can only be brought back to life using extremely rare relics (e.g., the Scroll of Resurrection).
+
+---
+
+## 🍻 The Taverns
+
+Safe havens between Acts. Inside these walls, players can:
+* Fully restore the HP of all Heroes.
+* Freely trade Items among players to optimize their gear.
+* Sell excess Minor Items to the innkeeper in exchange for drawing a new Minor Item card.
+
+---
+
+## 🐺 Lone Wolf Mode
+
+Special rules for playing the campaign entirely solo:
+* You must roll two Choice Dice for each Story Card and freely choose which color result to apply.
+* You have two Main Actions per turn in combat, allowing for rapid combinations.
+* If your HP drops to 0, a "Second Chance" activates: you immediately recover half of your maximum HP, but you must permanently discard one item. Dropping to 0 HP a second time within the same Act results in a definitive game over.
